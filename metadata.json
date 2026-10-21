@@ -1,0 +1,6 @@
+{
+  "name": "Smart Hisob — Shaxsiy Moliya Boshqaruvi",
+  "description": "Daromadlar va xarajatlarni hisoblash, saqlash, chuqur tahlil qilish va oylik limitlarni boshqarish uchun zamonaviy shaxsiy moliya platformasi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
